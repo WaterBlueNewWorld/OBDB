@@ -1,0 +1,9 @@
+G:\aleja\Projects\Visual Studio\objectDatabase\obj\Debug\objectDatabase.csprojAssemblyReference.cache
+G:\aleja\Projects\Visual Studio\objectDatabase\obj\Debug\objectDatabase.csproj.CoreCompileInputs.cache
+G:\aleja\Projects\Visual Studio\objectDatabase\bin\Debug\objectDatabase.exe.config
+G:\aleja\Projects\Visual Studio\objectDatabase\bin\Debug\objectDatabase.exe
+G:\aleja\Projects\Visual Studio\objectDatabase\bin\Debug\objectDatabase.pdb
+G:\aleja\Projects\Visual Studio\objectDatabase\bin\Debug\Db4objects.Db4o.dll
+G:\aleja\Projects\Visual Studio\objectDatabase\obj\Debug\objectDatabase.csproj.CopyComplete
+G:\aleja\Projects\Visual Studio\objectDatabase\obj\Debug\objectDatabase.exe
+G:\aleja\Projects\Visual Studio\objectDatabase\obj\Debug\objectDatabase.pdb
